@@ -1,20 +1,20 @@
 {
-  "name": "@johnpapa/card",
-  "version": "1.0.5",
-  "description": "A personal card for John Papa",
+  "name": "alvarocamillont",
+  "version": "1.0.0",
+  "description": "A personal card for Alvaro Camillo Neto",
   "main": "index.js",
   "bin": {
-    "johnpapa-card": "./bin/index.js"
+    "alvarocamillont": "./bin/index.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/johnpapa/johnpapa-card.git"
+    "url": "https://github.com/alvarocamillont/alvaro-card"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "John Papa (http://johnpapa.net)",
+  "author": "Alvaro Camillo Neto(https://alvarocamillont.dev)",
   "license": "MIT",
   "dependencies": {
     "boxen": "^2.1.0",

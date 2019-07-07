@@ -13,5 +13,3 @@ npx alvarocamillont
 ## Credits
 
 Forked from Tierney Cyren's https://github.com/bnb/bitandbang
-
-![Card](https://raw.githubusercontent.com/johnpapa/johnpapa-card/master/card.gif)
