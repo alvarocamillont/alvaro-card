@@ -1,23 +1,17 @@
-# John Papa's Card
+# Cartão Alvaro Camillo Neto
 
-It's me, John!
+Desenvolvedor a 15 anos atualmente trabalhando na TOTVS com tecnologias web e com desafio de apoiar na modernização das suas aplicações. Estudando e compartilhando o máximo possível.
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/johnpapa/johbpapa-card/blob/master/LICENSE) [![npm version](https://badge.fury.io/js/%40johnpapa%2Fcard.svg)](https://www.npmjs.com/package/@johnpapa/card)
-
-## Usage
+## Uso
 
 Via npx:
 
 ```bash
-npx @johnpapa/card
+npx alvarocamillont
 ```
-
-Not including how to use it globally because I'm not sure why you'd want this as a global command. That'd be creepy.
 
 ## Credits
 
 Forked from Tierney Cyren's https://github.com/bnb/bitandbang
 
 ![Card](https://raw.githubusercontent.com/johnpapa/johnpapa-card/master/card.gif)
-
-Badges from <https://badge.fury.io/for/js>
